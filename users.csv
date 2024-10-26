@@ -1,1 +1,6 @@
-
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+dennybritz,Denny Britz,,"Tokyo, Japan",,,"High-school dropout. Ex Google Brain, Stanford, Berkeley. Into Startups, Deep Learning. Writing at wildml.com  and dennybritz.com",61,9470,6,2010-09-16T18:32:26Z
+wasabeef,Daichi Furiya,"CYBERAGENT, INC.","Tokyo, Japan",,True,Google Developers Expert for Android,46,9366,60,2012-06-09T13:46:37Z
+dai-shi,Daishi Kato,FREELANCER,Tokyo,,True,"React library author, maintaining three state management libraries, Zustand🐻, Jotai👻, Valtio🧙, and React framework, Waku⛩️.",128,6928,1,2010-11-21T12:26:31Z
+rui314,Rui Ueyama,BLUE WHALE SYSTEMS,Tokyo,,,,44,5934,8,2009-01-18T01:29:27Z
+domenic,Domenic Denicola,GOOGLE,"Tokyo, Japan",,,,216,5406,79,2011-02-14T15:26:22Z
